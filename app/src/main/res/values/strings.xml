@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smart Attendance</string>
+    <string name="init_attendance">Initiate Attendance</string>
+</resources>
